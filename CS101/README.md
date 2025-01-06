@@ -1,2 +1,0 @@
-# BYU
-Exercises from BYU
