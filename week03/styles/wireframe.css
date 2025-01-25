@@ -1,0 +1,14 @@
+:root {
+  /* CSS HEX */
+--primary-color: #505033ff;
+--secondary-color: #264969ff;
+--accent1-color: #cfcfb4ff;
+--accent2-color: #b4cde4ff;
+}
+
+h1, h2, h3 {
+  font-family: 'Open Sans', serif;
+}
+p {
+  font-family: 'Figtree', serif;
+}
