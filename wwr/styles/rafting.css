@@ -33,7 +33,6 @@ header nav a {
   margin: 20px auto;
   width: 90%;
   border-radius: 10px;
-  padding-bottom: 200px; /* Ajuste conforme necessário */
 }
 
 
@@ -83,38 +82,4 @@ header nav a {
 
 .hero article p {
   font-size: 20px;
-}
-
-section {
-  padding: 20px;
-  text-align: center;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
-  margin: 20px auto;
-}
-
-.gallery img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-footer {
-  text-align: center;
-  background-color: var(--secondary-color);
-  color: white;
-  padding: 20px;
-}
-
-footer .sociallinks a {
-  margin: 0 10px;
-}
-
-footer img {
-  width: 24px;
-  height: 24px;
 }
